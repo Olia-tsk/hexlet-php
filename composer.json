@@ -1,0 +1,11 @@
+{
+    "name": "olia/hexlet-php",
+    "description": "project for practice",
+    "authors": [
+        {
+            "name": "Olia Kurbatova",
+            "email": "kurbatova.olia@gmail.com"
+        }
+    ],
+    "require": {}
+}
