@@ -9,5 +9,10 @@
     ],
     "require": {
         "illuminate/collections": "^11.20"
+    },
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
     }
 }
