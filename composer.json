@@ -7,5 +7,7 @@
             "email": "kurbatova.olia@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^11.20"
+    }
 }
